@@ -1,5 +1,4 @@
-# Privacy Policies
-📝 Account Deletion 
+# Account Deletion 
 Title: Request Account Deletion – Your Name
 To request deletion of your account and associated data from Couponbaazi, please email us at:
  📧 workemailofansh@gmail.com
